@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0EEF2F10-0022-4E51-A3FB-978821FE6CFB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82273372-71CA-4DCE-BD14-358E72F704F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&amp;GCD/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67A1B0CC-4375-461D-9649-FEAF14B052FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&amp;GCD/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "-diffStackAndHip3"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A83BAC2-03FE-4E1D-B1B7-7C40C6093E7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&amp;GCD/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "-diffStackAndHip3"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F0DD082-8E6C-43A6-8F6E-48306F54C97D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&amp;GCD/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "-diffStackAndHip3"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF4F3EED-28F0-43F6-BD62-E1DE8A767B36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&amp;GCD/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "-NSGlobalBlock"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF4F3EED-28F0-43F6-BD62-E1DE8A767B36 - 2c3ec12d80b31355"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController NSGlobalBlock]"
+                  moduleName = "Block&amp;GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zzy/Desktop/iOS/Block&amp;GCD/Block&amp;GCD/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "AF4F3EED-28F0-43F6-BD62-E1DE8A767B36 - 972d9d6f03b7623e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[ViewController NSGlobalBlock]_block_invoke"
+                  moduleName = "Block&amp;GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zzy/Desktop/iOS/Block&amp;GCD/Block&amp;GCD/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04DAB863-0C24-4127-BBF4-BB0A8E530A89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&amp;GCD/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-NSGlobalBlock"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04DAB863-0C24-4127-BBF4-BB0A8E530A89 - 2c3ec12d80b3128e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController NSGlobalBlock]"
+                  moduleName = "Block&amp;GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zzy/Desktop/iOS/Block&amp;GCD/Block&amp;GCD/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "04DAB863-0C24-4127-BBF4-BB0A8E530A89 - fcb2e9ff111a36db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[ViewController NSGlobalBlock]_block_invoke_2"
+                  moduleName = "Block&amp;GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zzy/Desktop/iOS/Block&amp;GCD/Block&amp;GCD/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "249CEE7E-FBE0-4326-B2BA-DCEFDCEB1481"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&amp;GCD/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "-NSMallocBlock"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79E4EF59-8815-4C10-8E06-3368D2F152BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&amp;GCD/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-NSStackBlock"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79E4EF59-8815-4C10-8E06-3368D2F152BF - a82b7605c97ddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController NSStackBlock]"
+                  moduleName = "Block&amp;GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zzy/Desktop/iOS/Block&amp;GCD/Block&amp;GCD/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "79E4EF59-8815-4C10-8E06-3368D2F152BF - 12ae787fea313b77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSStackBlock]_block_invoke"
+                  moduleName = "Block&amp;GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zzy/Desktop/iOS/Block&amp;GCD/Block&amp;GCD/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
