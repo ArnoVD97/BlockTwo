@@ -104,6 +104,7 @@
         NSLog(@"%p",&a);
         NSLog(@"%@",abc);
         [abc addObject:@"2"];
+        
         _arrayT = nil;
         NSLog(@"%@",_arrayT);
         NSLog(@"%p",_arrayT);
